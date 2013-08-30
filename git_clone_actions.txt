@@ -1,3 +1,10 @@
 Explain what git clone does, in your own words
 
+The command "git clone" is used when there is another users remote repository and you want it as a local repository.
 
+it is a process where you copy a remote repository and add it to your local repository. 
+
+"git clone <url>"
+
+
+   
