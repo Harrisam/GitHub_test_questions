@@ -1,1 +1,7 @@
 Explain what the "upstream" remote is usually used for, in your own words
+
+the upstream remote is used in the forking process.
+
+needed to keep track of the original remote repo, when it has been cloned. one creats the upstream remote to replace the origin remote (created at the time of the clone) this creats a link between the original and your clone allowing it to keep upto date whith any changes that are happening, by using "pull updates"
+
+
