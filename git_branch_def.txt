@@ -1,1 +1,11 @@
 Explain what a branch is, in your own words
+
+A branch stores any changes made to the master.
+
+It is used to test out ideas without altering the master.  
+
+you can branch on a branch and you can integrate the branch into master. 
+
+it is a tracking process which allows you to play with your code without affecting the master / previosu branch.
+
+
